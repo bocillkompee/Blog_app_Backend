@@ -16,10 +16,12 @@
     "dotenv": "^17.4.2",
     "drizzle-orm": "^0.45.2",
     "express": "^5.2.1",
+    "multer": "^2.3.0",
     "mysql2": "^3.24.4"
   },
   "devDependencies": {
     "@types/express": "^5.0.6",
+    "@types/multer": "^2.2.0",
     "@types/node": "^22.20.2",
     "drizzle-kit": "^0.31.10",
     "nodemon": "^3.1.14",
